@@ -1,5 +1,5 @@
 {
-  "name": "better-file-system",
+  "name": "easier-fs",
   "version": "1.0.0",
   "description": "FileSystem but much easier =). This is a wrapper of default node file system.",
   "main": "BetterFileSystem.js",
@@ -15,7 +15,7 @@
     "fs",
     "file-system",
     "better-file-system",
-    "easy-file-system"
+    "easier-file-system"
   ],
   "author": "pixelsymbols",
   "license": "ISC",
