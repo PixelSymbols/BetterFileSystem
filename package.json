@@ -1,13 +1,26 @@
 {
   "name": "better-file-system",
   "version": "1.0.0",
-  "description": "This package provides you an easy use of default node:fs.",
+  "description": "FileSystem but much easier =). This is a wrapper of default node file system.",
   "main": "BetterFileSystem.js",
-	"type":"module",
-  "keywords": ["file system","fs","better file system"],
-  "author": "PixelSymbols (https://github.com/PixelSymbols)",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelSymbols/BetterFileSystem.git"
+  },
+  "keywords": [
+    "fs",
+    "file-system",
+    "better-file-system",
+    "easy-file-system"
+  ],
+  "author": "pixelsymbols",
   "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^3.2.6"
-  }
+  "bugs": {
+    "url": "https://github.com/PixelSymbols/BetterFileSystem/issues"
+  },
+  "homepage": "https://github.com/PixelSymbols/BetterFileSystem#readme"
 }
