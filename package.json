@@ -1,0 +1,13 @@
+{
+  "name": "better-file-system",
+  "version": "1.0.0",
+  "description": "This package provides you an easy use of default node:fs.",
+  "main": "BetterFileSystem.js",
+	"type":"module",
+  "keywords": ["file system","fs","better file system"],
+  "author": "PixelSymbols (https://github.com/PixelSymbols)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
